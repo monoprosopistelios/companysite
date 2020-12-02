@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to STYLIANOS-AVRAMIDIS-COMPANY.EU
 
-You can use the [editor on GitHub](https://github.com/monoprosopistelios/companysite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We are offering competitive Product Management services. 
+
+Please contact us at : stylianos.avramidis@gmail.com
+
+You can find the Director's Resume [here](https://www.linkedin.com/in/stelios-avramidis-61b7b115a/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
